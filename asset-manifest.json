@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OnlineCryptoChecker/static/css/main.8bcfec31.chunk.css",
+    "main.js": "/OnlineCryptoChecker/static/js/main.dc78f8ea.chunk.js",
+    "main.js.map": "/OnlineCryptoChecker/static/js/main.dc78f8ea.chunk.js.map",
+    "runtime-main.js": "/OnlineCryptoChecker/static/js/runtime-main.348eff24.js",
+    "runtime-main.js.map": "/OnlineCryptoChecker/static/js/runtime-main.348eff24.js.map",
+    "static/js/2.ad2b135e.chunk.js": "/OnlineCryptoChecker/static/js/2.ad2b135e.chunk.js",
+    "static/js/2.ad2b135e.chunk.js.map": "/OnlineCryptoChecker/static/js/2.ad2b135e.chunk.js.map",
+    "index.html": "/OnlineCryptoChecker/index.html",
+    "static/css/main.8bcfec31.chunk.css.map": "/OnlineCryptoChecker/static/css/main.8bcfec31.chunk.css.map",
+    "static/js/2.ad2b135e.chunk.js.LICENSE.txt": "/OnlineCryptoChecker/static/js/2.ad2b135e.chunk.js.LICENSE.txt",
+    "static/media/cryptobckg.ebcf75b7.jpeg": "/OnlineCryptoChecker/static/media/cryptobckg.ebcf75b7.jpeg",
+    "static/media/refresh.2393f92f.png": "/OnlineCryptoChecker/static/media/refresh.2393f92f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.348eff24.js",
+    "static/js/2.ad2b135e.chunk.js",
+    "static/css/main.8bcfec31.chunk.css",
+    "static/js/main.dc78f8ea.chunk.js"
+  ]
+}
